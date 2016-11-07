@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Users</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="age_formatted">%d yo</string>
+    <string name="sort_default">Sort Default</string>
+    <string name="sort_name_asc">Sort Name Asc</string>
+    <string name="sort_name_desc">Sort Name Desc</string>
+    <string name="sort_age_asc">Sort Age Asc</string>
+    <string name="sort_age_desc">Sort Age Desc</string>
+    <string name="hobby">Hobby</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="save">Save</string>
+    <string name="discard">Discard</string>
+    <string name="edit">Edit</string>
+    <string name="add">Add</string>
+    <string name="add_user">Add User</string>
+    <string name="no_user">No users available to display.</string>
+    <string name="filter_header">Filter users by:</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="select_image">Select Image</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="ok">OK</string>
+    <string name="info">Info</string>
+    <string name="deleted_msg">This user was deleted!</string>
+    <string name="warning">Warning</string>
+    <string name="confirm_msg">Are you sure you want to delete this user?</string>
+    <string name="empty_hobby">Can not add an empty hobby</string>
+    <string name="name_required">Name is a required field.</string>
+    <string name="age_required">Age is a required field.</string>
+    <string name="gender_required">Gender is a required field.</string>
+</resources>

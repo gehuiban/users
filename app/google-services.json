@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "764069299658",
+    "firebase_url": "https://messages-7180e.firebaseio.com",
+    "project_id": "messages-7180e",
+    "storage_bucket": "messages-7180e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764069299658:android:8414c90f3128e1a9",
+        "android_client_info": {
+          "package_name": "com.gehuiban.users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764069299658-5u2tnclmimfjj2394o6i45i45jcjjvt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzeo0X3pZH52YWlsgtwCGYkqf7zHbc5wA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

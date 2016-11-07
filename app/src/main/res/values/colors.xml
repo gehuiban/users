@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="color_accent">#253cf1</color>
+    <color name="color_male">#a7daff</color>
+    <color name="color_female">#ffc6d9</color>
+    <color name="white">#ffffff</color>
+    <color name="darker_gray">#333333</color>
+    <color name="dark_gray">#777777</color>
+    <color name="transparent_gray">#77777777</color>
+    <color name="transparent_edit">#cccccccc</color>
+    <color name="gray">#eeeeee</color>
+    <color name="red">#ff0000</color>
+</resources>

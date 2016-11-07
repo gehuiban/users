@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:drawable/dialog_holo_light_frame"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:id="@+id/card_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="@dimen/activity_vertical_margin"
+        tools:background="@color/color_male">
+
+        <ImageView
+            android:id="@+id/photo"
+            android:layout_width="@dimen/profile_image_size"
+            android:layout_height="@dimen/profile_image_size"
+            android:layout_gravity="center"
+            android:background="@drawable/ic_noperson"
+            android:scaleType="centerCrop"
+            android:transitionName="primary_image" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="8"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/activity_horizontal_margin">
+
+            <TextView
+                android:id="@+id/name_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/darker_gray"
+                android:textSize="@dimen/header_font_size"
+                android:transitionName="name_text"
+                tools:text="Albert Smith" />
+
+            <TextView
+                android:id="@+id/age_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/dark_gray"
+                android:transitionName="age_text"
+                tools:text="Age 27" />
+
+            <TextView
+                android:id="@+id/hobby_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/dark_gray"
+                android:transitionName="hobby_text"
+                tools:text="Hobby: Hiking, Movies, Chess" />
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

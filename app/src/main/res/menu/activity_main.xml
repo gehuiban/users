@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add_user_id"
+        android:title="@string/add_user"
+        android:icon="@android:drawable/ic_menu_add"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/sort_default_id"
+        android:title="@string/sort_default" />
+
+    <item
+        android:id="@+id/sort_name_asc_id"
+        android:title="@string/sort_name_asc" />
+
+    <item
+        android:id="@+id/sort_name_desc_id"
+        android:title="@string/sort_name_desc" />
+
+    <item
+        android:id="@+id/sort_age_asc_id"
+        android:title="@string/sort_age_asc" />
+
+    <item
+        android:id="@+id/sort_age_desc_id"
+        android:title="@string/sort_age_desc" />
+</menu>

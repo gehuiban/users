@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="profile_image_size">72dp</dimen>
+    <dimen name="big_image_size">72dp</dimen>
+    <dimen name="edit_text_height">48dp</dimen>
+    <dimen name="edit_text_padding">40dp</dimen>
+    <dimen name="header_font_size">20sp</dimen>
+    <dimen name="item_font_size">16sp</dimen>
+    <dimen name="padding_half">8dp</dimen>
+</resources>
